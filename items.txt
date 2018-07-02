@@ -1,0 +1,54 @@
+The woman accidently hurt herself while playing sports in the park.	0	Are sports played in the park?
+The man accidently hurt herself while playing sports in the park.	0	Are sports played in the park?
+The men accidently hurt herself while playing sports in the park.	0	Are sports played in the park?
+The nurse recently defended herself against the false accusations.	1	Were the accusations true?
+The policeman recently defended herself against the false accusations.	1	Were the accusations true?
+The policemen recently defended herself against the false accusations.	1	Were the accusations true?
+The father often blamed himself for the recent accident.	0	Did the accident happen recently?
+The mother often blamed himself for the recent accident.	0	Did the accident happen recently?
+The mothers often blamed himself for the recent accident.	0	Did the accident happen recently?
+The priest recently motivated himself to learn more about water crisis in Africa.	0	Is there a water crisis in Africa?
+The nun recently motivated himself to learn more about water crisis in Africa.	0	Is there a water crisis in Africa?
+The nuns recently motivated himself to learn more about water crisis in Africa.	0	Is there a water crisis in Africa?
+The bachelor eagerly introduced himself to the celebrity at the charity event. 	0	Did a celebrity attend the charity event?
+The girl eagerly introduced himself to the celebrity at the charity event. 	0	Did a celebrity attend the charity event?
+The girls eagerly introduced himself to the celebrity at the charity event. 	0	Did a celebrity attend the charity event?
+The girl recently taught herself how to read Latin using a smartphone app.	0	Do smartphone apps teach Latin?
+The boy recently taught herself how to read Latin using a smartphone app.	0	Do smartphone apps teach Latin?
+The boys recently taught herself how to read Latin using a smartphone app.	0	Do smartphone apps teach Latin?
+The actress proudly praised herself for the terrific movie.	1	Was the movie horrible?
+The man proudly praised herself for the terrific movie.	1	Was the movie horrible?
+The men proudly praised herself for the terrific movie.	1	Was the movie horrible?
+The waiter repeatedly reminded himself about the outstanding orders.	0	Were there outstanding orders?
+The waitress repeatedly reminded himself about the outstanding orders.	0	Were there outstanding orders?
+The waitresses repeatedly reminded himself about the outstanding orders.	0	Were there outstanding orders?
+The cheerleader secretly blamed herself for losing the difficult competition.	1	Was the competition easy?
+The football_player secretly blamed herself for losing the difficult competition.	1	Was the competition easy?
+The football_players secretly blamed herself for losing the difficult competition.	1	Was the competition easy?
+The businesswomen proudly introduced herself to the wealthy client.	1	Was the client poor?
+The businessman proudly introduced herself to the wealthy client.	1	Was the client poor?
+The businessmen proudly introduced herself to the wealthy client.	1	Was the client poor?
+The salesman accidently embarrassed himself at the corporate event hosted by the CEO.	0	Did the CEO host a corporate event?
+The saleswoman accidently embarrassed himself at the corporate event hosted by the CEO.	0	Did the CEO host a corporate event?
+The saleswomen accidently embarrassed himself at the corporate event hosted by the CEO.	0	Did the CEO host a corporate event?
+The boy quietly amused himself during the boring recital.	1	Was the recital exciting?
+The girl quietly amused himself during the boring recital.	1	Was the recital exciting?
+The girls quietly amused himself during the boring recital.	1	Was the recital exciting?
+The policewoman couragously defended herself from the armed criminal.	0	Was the criminal armed?
+The policeman couragously defended herself from the armed criminal.	0	Was the criminal armed?
+The policemen couragously defended herself from the armed criminal.	0	Was the criminal armed?
+The congresswoman often reminded herself about the promises made on the campaign trail.	0	Were promises made on the campaign trail?
+The congressman often reminded herself about the promises made on the campaign trail.	0	Were promises made on the campaign trail?
+The congressmen often reminded herself about the promises made on the campaign trail.	0	Were promises made on the campaign trail?
+The actor recently forgave himself for not doing something about the harassment from the incosiderate director.	1	Was the director kind?
+The actress recently forgave himself for not doing something about the harassment from the incosiderate director..	1	Was the director kind?
+The actresses recently forgave himself for not doing something about the harassment from the incosiderate director.. 	1	Was the director kind?
+The congresswoman often doubted herself after making a controversial decision about birth control.	1	Are all decisions about birth control uncontroversial?
+The priest often doubted herself after making a controversial decision about birth control.	1	Are all decisions about birth control uncontroversial?
+The priests often doubted herself after making a controversial decision about birth control.	1	Are all decisions about birth control uncontroversial?
+The actor intentionally portrayed himself as a kind person during the TV interview.	1	Was the interview for a magazine?
+The actress intentionally portrayed himself as a kind person during the TV interview.	1	Was the interview for a magazine?
+The actresses intentionally portrayed himself as a kind person during the TV interview.	1	Was the interview for a magazine?
+The businesswoman proudly praised herself for a job well done. 	1	Was the job done poorly?
+The businessman proudly praised herself for a job well done. 	1	Was the job done poorly?
+The businessmen proudly praised herself for a job well done. 	1	Was the job done poorly?

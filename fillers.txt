@@ -1,0 +1,36 @@
+The assistant accidently kicked her sister under the table.	0	Did the assistant accidently kick someone?
+The therapist frequently inspired her clients to achieve more.	0	Was the therapist inspiring?
+The girl proudly taught herself to play the piano.	0	Did the girl teach herself to play the piano?
+The businesswoman happily treated herself to a piece of chocolate cake.	0	Did the businesswoman treat herself to some cake?
+The prince frequently bought his friends brand new clothing.	1	Did the prince buy his friends used clothing?
+The princess recently inspired her servants to be kinder.	0	Was the princess inspiring?
+The schoolgirl carefully disciplined herself to study more often for the exam.	1	Did the schoolgirl forget to study for the exam?
+The attorney accidently misrepresented his client in the controversial court case.	0	Was the court case controversial?
+The waiter often recommended his friends to the manager.	0	Did the waiter recommend his friends?
+The secretary recently motivated herself to get a higher degree.	1	Was the secretary satisfied with her current education?
+The salesman openly described his boss as a helpful person.	1	Was the boss described as mean?
+The stock broker erroneously cast his mother in a negative light.	0	Was the mother cast in a negative light?
+The gardener recently injured himself quite badly with the lawmower.	1	Was the injury minor?
+The actress often depicted her idols in her recent films.	0	Did the actress make films recently?
+The seamstress accidently pinched her finger in the sewing machine.	1	Was it a pair of scissors that pinched the seamstress?
+The mother often embarrassed her children in the front of the school.	0	Did the mother embarrass her children?
+The reporter openly characterized her congressman as an idiot. 	1	Was the congressman characterized as smart?
+The nurse deliberately characterized herself as a helpful person.	0	Did the nurse characterize herself as being helpful?
+The annual report that the businessman read was emailed to the manager.	1	Was it the businessman who was emailed the report?
+The photogpher took a self-portrait of himself for the magazine.	1	Was the self-portrait for a book?
+The safety net that the brave policeman used was made of synthetic material.	0	Was the safety net made of synthetic material?
+The salesman accidently locked himself in the storage room.	1	Was it the saleswoman who was locked in the storage room?
+The self-portrait that the famous artist painted was sold at a very high price	1	Was it a still life that the artist painted?
+The technican accidently shocked himself with the electrical outlet.	0	Did the technician shock himself?
+The secretary accidently incriminated herself in the office scandal.	1	Was the office free of scandals?
+The security system that the police officer used was recently installed in the airport.	0	Was a security system installed in the airport
+The slanderous accusation that the wealthy executive disregarded was full of inaccurate information.	1	Was the accusation accurate?
+The brief memo that the studious schoolgirl noticed was posted the notice board.	1	Was the memo long?
+The thank you letter that the helpful secretary received was sent from a very important client.	1	Was it the client who received the thank you letter?
+The sharp needle that the flustered nurse used was contaminated with several strands of bacteria.	1	Was the needle dull?
+The scientist did a study on himself for the scientific journal.	0	Was the study self-reflective?
+The new medication that the sick patient took was very expensive for the insurance companies.	0	Did the patient take new medication?
+The newspaper article that the rich executive read was quite misleading about the facts.	0	Was the article misleading?
+The teacher blamed herself for the students poor grades.	1	Did the teacher blame the students for their grade?
+The reference letter that the job applicant submitted was written by a recent employer.	1	Was it the employer who submitted the reference letter?
+The hilarious movie that the aspiring actor appeared in was a major hit in the theaters.	0	Was the movie funny?
